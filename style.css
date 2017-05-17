@@ -54,3 +54,16 @@ p {
     padding-top: 20px;
     border-top: 3px solid #b3b6b9;
 }
+
+.author-box img{
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    float: left;
+}
+
+.author-text {
+    float: left;
+    font-size: 22px;
+    
+}
